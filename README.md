@@ -1,10 +1,19 @@
 # Contextual Inquiry and Analysis
 ## Device/ App/ Website Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo molestie libero non dapibus. Praesent malesuada erat dolor, eget varius quam tempor sit amet. Etiam justo nibh, dignissim id lorem vel, posuere aliquet risus. Donec iaculis dui sapien, ac suscipit nunc suscipit non. Vivamus malesuada laoreet mauris eu commodo. Ut vitae nisi vel turpis aliquet ultrices. Cras sollicitudin gravida tortor, non semper dui congue at. Donec sem nisl, tempor eu hendrerit id, blandit id quam. Curabitur et diam quam. Suspendisse vel felis nec velit vulputate eleifend nec eu nisi. Morbi rutrum ex non ante fringilla, in rutrum felis aliquam. In cursus sem et dictum tincidunt. Curabitur id nisi nec nibh convallis vehicula ullamcorper non ex. In interdum lorem a est imperdiet porta.
+[**itsdaring.id**](https://itsdaring.id/) is an online course platform made by PT ITS Tekno Sains to facilitate e-learning in various department. Using this website, lecturer and students can easily set up an online class, where they can share teaching matherials and giving assignment. The homepage look like the image below.
+![itsdaring-homepage](img/itsdaring_homepage.png)
 ## Instruction Script
-Nam a eleifend tortor. In eget facilisis est. Suspendisse tincidunt mi lorem, non volutpat libero scelerisque id. Curabitur dui dui, dignissim ac lectus sit amet, sodales gravida ex. Donec mattis, enim vitae sollicitudin rhoncus, diam elit consequat massa, et rutrum magna augue vitae turpis. In eget arcu laoreet, dapibus arcu eget, mattis massa. Aenean fringilla eu dui ut vestibulum. Aenean consequat consectetur massa, eget ornare sapien dignissim vel. Nunc vestibulum tellus ut dolor euismod commodo. Vivamus fringilla urna eget elit vestibulum mattis. Sed nec mattis nisl. Sed sit amet sapien at libero tincidunt ullamcorper. Sed tempus non quam eu rutrum. Nunc fringilla lorem non nibh pulvinar fermentum.
+1. Open [**itsdaring.id**](https://itsdaring.id/) then create an account.
+2. After creating account, try to sign in then sign out.
+3. Try to find 1 course from Thechnology category especially about Informatics. Then read some of its learning materials.
+4. Try to find 2 free course. Then, enroll to the courses. Then, read some its learning materials.
 ## User Description
-Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
+- Architecture student
+- 21 years old
+- Female
+- Familiar with e-learning concept.
+- Have used other website for e-learning purpose
+- Familiar with account creation process on website. Have made around 10 online accounts on various websites.
 ## Transcript
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
 ## Models and Annotations
