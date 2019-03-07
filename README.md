@@ -118,7 +118,7 @@
 ![sidebar-filter](img/sidebar.jpg)
 ![lazy-load-homepage](img/lazy_load.jpg)
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![flow-model](img/flow_model.jpg)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
