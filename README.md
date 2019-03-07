@@ -1,4 +1,16 @@
 # Contextual Inquiry and Analysis
+- [Contextual Inquiry and Analysis](#contextual-inquiry-and-analysis)
+  - [Device/ App/ Website Description](#device-app-website-description)
+  - [Instruction Script](#instruction-script)
+  - [User Description](#user-description)
+  - [Transcript](#transcript)
+  - [Models and Annotations](#models-and-annotations)
+    - [Artifact Model](#artifact-model)
+    - [Flow Model](#flow-model)
+    - [Cultural Model](#cultural-model)
+  - [Do's and Don't's](#dos-and-donts)
+    - [Do's](#dos)
+    - [Dont's](#donts)
 ## Device/ App/ Website Description
 [**itsdaring.id**](https://itsdaring.id/) is an online course platform made by PT ITS Tekno Sains to facilitate e-learning in various department. Using this website, lecturer and students can easily set up an online class, where they can share teaching matherials and giving assignment. The homepage look like the image below.
 ![itsdaring-homepage](img/itsdaring_homepage.png)
