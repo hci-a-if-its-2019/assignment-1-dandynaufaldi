@@ -122,4 +122,11 @@
 ### Cultural Model
 ![cultural-model](img/cultural_model.jpg)
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+### Do's
+- Add view all under course menu in navbar
+- Add more filter option on courses listing
+- Change font size in sign up form to the same for all field labels
+- Add 'retype password' field in sign up form
+- Change text in login button into 'Login / Sign up'
+### Dont's
+- Use lazy load to list all available courses on homepage which might be annoying
