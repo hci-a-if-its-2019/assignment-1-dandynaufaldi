@@ -142,3 +142,12 @@
 - Change text in login button into 'Login / Sign up'
 ### Dont's
 - Use lazy load to list all available courses on homepage which might be annoying
+
+# Remarks
+> * Thanks for providing us with comprehensive analysis and structured table of contents.
+> * In this assignment, you're able to show evidences of bad designs on itsdaring.id website.
+> * However, I assume that the screen recorder overlay was not part of UI problems on itsdaring.id. So, I think it's fine to omit that from the results (artifact model).
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 7                | 7               | 94                 | 81         | 91.4  |
